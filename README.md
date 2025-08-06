@@ -46,8 +46,8 @@ Follow these steps to get the project up and running on your local machine.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/product-listing-backend.git](https://github.com/your-username/product-listing-backend.git)
-    cd product-listing-backend
+    git clone [https://github.com/your-username/product-listing-backend.git](https://github.com/SonalWelisara/E-Product.git)
+    cd backend
     ```
 2.  **Create a Python Virtual Environment (Recommended):**
     ```bash
@@ -78,8 +78,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/product-listing-frontend.git](https://github.com/your-username/product-listing-frontend.git)
-    cd product-listing-frontend
+    cd frontend
     ```
 2.  **Install Dependencies:**
     ```bash
