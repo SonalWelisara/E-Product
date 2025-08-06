@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary  # for PostgreSQL
+python-jose[cryptography]  # for JWT
+passlib[bcrypt]  # for password hashing
+python-multipart  # for handling form data, including file uploads
