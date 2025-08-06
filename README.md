@@ -42,11 +42,15 @@ This project is a basic full-stack product listing application designed to allow
 
 Follow these steps to get the project up and running on your local machine.
 
+### **Clone the Repository**
+   ```bash
+   git clone [https://github.com/your-username/product-listing-backend.git](https://github.com/SonalWelisara/E-Product.git)
+   ```
+
 ### **1. Backend Setup**
 
-1.  **Clone the Repository:**
+1.  **Move to the Backend:**
     ```bash
-    git clone [https://github.com/your-username/product-listing-backend.git](https://github.com/SonalWelisara/E-Product.git)
     cd backend
     ```
 2.  **Create a Python Virtual Environment (Recommended):**
@@ -76,7 +80,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ### **2. Frontend Setup**
 
-1.  **Clone the Repository:**
+1.  **Move to the Frontend:**
     ```bash
     cd frontend
     ```
@@ -156,11 +160,7 @@ Here's a list of the main npm packages used in the frontend and why:
 * **`@radix-ui/react-label`**: Accessible label primitive.
 * **`@radix-ui/react-slot`**: Utility for composing components.
 * **`class-variance-authority`**: Helps manage Tailwind CSS class variations for components (e.g., button styles).
-* **`clsx`**: A tiny utility for constructing `className` strings conditionally.
 * **`tailwind-merge`**: Merges Tailwind CSS classes without style conflicts.
-* **`next-themes`**: For managing dark/light themes.
-* **`use-debounce`**: A hook for debouncing values, useful for search inputs.
-* **`zustand`**: A small, fast, and scalable bear-bones state-management solution. (Often used for global state like authentication context).
 
 ---
 
